@@ -1,2 +1,2 @@
 # SincererFlameBlog
-The darknightcore.blog site
+My blog!
