@@ -1,2 +1,0 @@
-# SincererFlameBlog
-My blog!
